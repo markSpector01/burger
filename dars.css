@@ -1,0 +1,22 @@
+/* h1{
+    color: gold;
+}
+.car{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+}
+.car button{
+    padding: 15px 40px;
+    background-color: black;
+    border-radius: 10px 10px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    border: 1px solid white;
+
+} */
